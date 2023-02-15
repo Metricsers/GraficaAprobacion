@@ -1,0 +1,12 @@
+.size_iframe_full{
+    width: 100%;
+    height: 400px;
+}
+
+
+@media only  screen and (max-width: 1366px){
+    .size_iframe_full{
+        width: 100%;
+        height: 200px;
+    }
+}
